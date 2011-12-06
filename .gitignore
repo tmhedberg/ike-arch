@@ -2,3 +2,4 @@
 ike-*.tgz
 /pkg
 /src
+/ike-*.src.tar.gz
